@@ -17,7 +17,7 @@ Before running the script, ensure the following:
 - The `python-ldap` library is installed. You can install it using:
   ```bash
   pip install python-ldap
-```
+  ```
 
 ## Usage
 
@@ -26,7 +26,7 @@ Before running the script, ensure the following:
 To execute the script, use the following command:
 
 ```bash
-python remove_leases.py
+python3 remove_leases.py
 ```
 
 ### Configuration
